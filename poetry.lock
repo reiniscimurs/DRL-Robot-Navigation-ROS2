@@ -1261,13 +1261,13 @@ files = [
 
 [[package]]
 name = "pyqtgraph"
-version = "0.13.6"
+version = "0.13.7"
 description = "Scientific Graphics and GUI Library for Python"
 optional = false
 python-versions = ">=3.9"
 files = [
-    {file = "pyqtgraph-0.13.6-py3-none-any.whl", hash = "sha256:35740eb7e5908e490c6e06ef6ef15738dfba27ee35b0b0417638d515da6f9226"},
-    {file = "pyqtgraph-0.13.6.tar.gz", hash = "sha256:2397a2197e7ac66920329bf28fb346b038d85a351f8988ccc806ffb79d11573d"},
+    {file = "pyqtgraph-0.13.7-py3-none-any.whl", hash = "sha256:7754edbefb6c367fa0dfb176e2d0610da3ada20aa7a5318516c74af5fb72bf7a"},
+    {file = "pyqtgraph-0.13.7.tar.gz", hash = "sha256:64f84f1935c6996d0e09b1ee66fe478a7771e3ca6f3aaa05f00f6e068321d9e3"},
 ]
 
 [package.dependencies]
@@ -1670,4 +1670,4 @@ testing = ["big-O", "jaraco.functools", "jaraco.itertools", "more-itertools", "p
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.9"
-content-hash = "ca7b65eff7b4cfdc4114b244edbe9b891c8cde3e05b33088d5a89ac529639205"
+content-hash = "9272d5e484c2c4291d50d4a901d1a84d641d40f9971a9a96e9e6e33856ccb755"
