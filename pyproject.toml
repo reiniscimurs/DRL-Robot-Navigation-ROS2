@@ -51,7 +51,7 @@ classifiers = [
 
 [tool.poetry.dependencies]
 python = "^3.9"
-ruff = "^0.4.6"
+ruff = "^0.4.7"
 catkin-pkg = "^1.0.0"
 lark = "^1.1.9"
 numpy = "^1.24"
@@ -74,7 +74,7 @@ optional = true
 
 
 [tool.poetry.group.linters.dependencies]
-ruff = "^0.4.6"
+ruff = "^0.4.7"
 
 
 [tool.poetry.group.tests]
