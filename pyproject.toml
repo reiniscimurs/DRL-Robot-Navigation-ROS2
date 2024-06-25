@@ -66,7 +66,7 @@ empy = "=4.1"
 
 
 [tool.poetry.group.dev.dependencies]
-mypy = "^1.10.0"
+mypy = "^1.10.1"
 
 
 [tool.poetry.group.linters]
