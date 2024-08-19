@@ -68,7 +68,7 @@ tqdm = "^4.66.5"
 
 
 [tool.poetry.group.dev.dependencies]
-mypy = "^1.10.0"
+mypy = "^1.11.1"
 
 
 [tool.poetry.group.linters]
